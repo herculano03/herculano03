@@ -1,16 +1,15 @@
-## Hi there 👋
+## boas vindas ao meu perfil 🖤
 
-<!--
-**herculano03/herculano03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome e lauany herculano
+  
+estou estudando na [alura] (https://www.alura.com.br)
+estou me desenvolvendo na linguagem javascript
+utilizo esse espacço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-Here are some ideas to get you started:
+### voce pode  entrar em contato comigo 📫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+00001080216947SP@al.educacao.sp.gov.br
+
+@lauh.silva03
+
+![](https://media1.tenor.com/m/4MVps48v8cgAAAAC/marie-sassy.gif)
